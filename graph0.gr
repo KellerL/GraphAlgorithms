@@ -1,0 +1,8 @@
+
+Graph Test{
+
+	a -- b;
+	b -- c;
+	d -- a;
+
+}
